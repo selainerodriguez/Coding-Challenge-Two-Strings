@@ -1,4 +1,4 @@
-# Coding-Challenge-Two-Worlds
+# Coding-Challenge-Two-Strings
 Solution for the Two Strings Problem from HackerRank Dictionaries and Hash Map Challenges
 
 Problem Description:
